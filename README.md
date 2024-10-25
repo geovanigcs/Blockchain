@@ -1,4 +1,6 @@
 🚀 Repository Description
+
+
 This repository showcases a demo site focused on blockchain technology, developed using React and Astro. As a software engineer, I aimed to provide an accessible introduction to blockchain, covering several key areas:
 
 🔑 Key Issues: Discusses challenges such as scalability, security vulnerabilities, and regulatory concerns that impact the adoption and implementation of blockchain technology.
@@ -12,6 +14,8 @@ This project was an exciting challenge, especially working with Astro for the fi
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
 🚀 Descrição do Repositório
+
+
 Este repositório apresenta um site demo focado em tecnologia blockchain, desenvolvido usando React e Astro. Como engenheiro de software, meu objetivo foi fornecer uma introdução acessível ao blockchain, abordando várias áreas-chave:
 
 🔑 Questões-Chave: Discute desafios como escalabilidade, vulnerabilidades de segurança e preocupações regulatórias que impactam a adoção e implementação da tecnologia blockchain.
